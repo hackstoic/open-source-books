@@ -19,7 +19,7 @@ title:  开源书籍大搜罗
 |     1 0  |   node-lessons |     https://github.com/alsotang/node-lessons   |     Node.js 包教不包会   |
 |     11   | docker_practice   |     https://github.com/yeasy/docker_practice   |    Docker — 从入门到实践    |
 |     1 2  |   interview_python |    https://github.com/taizilongxu/interview_python    |   关于Python的面试题     |
-|     1 3  |  free-programming-books-zh_CN |  https://github.com/justjavac/free-programming-books-zh_CN ｜ 免费的计算机编程类中文书籍， 分类很全    |       
+|     1 3  |  free-programming-books-zh_CN |  https://github.com/justjavac/free-programming-books-zh_CN | 免费的计算机编程类中文书籍， 分类很全    |       
 |     1 4  |  learn-with-open-source  |  https://github.com/zhuangbiaowei/learn-with-open-source      |  借助开源项目，学习软件开发      |
 |     15   |  slides  |   https://github.com/shell909090/slides     |     某大牛的演讲文章合集， 主题涵盖python， linux， 翻墙， docker等   |
 |     1 6  |   kafka-study |   https://github.com/superhj1987/kafka-study     |    kafka学习笔记    |
