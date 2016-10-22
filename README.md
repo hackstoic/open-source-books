@@ -4,10 +4,11 @@ title:  开源书籍大搜罗
 
 混github的时间越久，就越发现在github上写书，写文章慢慢变成了一种趋势。 我自己就收集了很多的这类开源项目。 有的项目已经有将近一百人参与， 收集了成百上千的书和文档。 不得不佩服开源的力量。 
 
+
 # 开源书籍
 |序号|名称|项目地址|简介|
 | ----- | ----- | -----  | -----  |
-|     1   |   skill-map |    https://github.com/TeamStuQ/skill-map    |     StuQ 程序员技能图谱是由 StuQ（http://www.stuq.org/）发起的一个技术社区开源项目，志在汇集整理共建泛 IT 技术领域（云计算，大数据，运维，安全，开发语言，智能硬件等）及互联网产品、运营等领域学习技能图谱，帮助程序员梳理知识框架结构，并尝试提供路径指导和精华资源，方便技术人学习成长。   |
+|     1   |   skill-map |    https://github.com/TeamStuQ/skill-map    |     StuQ 程序员技能图谱是由 StuQ（http://www.stuq.org/）发起的一个技术社区开源项目，志在汇集整理共建泛 IT 技术领域（云计算，大数据，运维，安全，开发语言，智能硬件等）及互联网产品、运营等领域学习技能图谱，帮助程序员梳理知识框架结构，并尝试提供路径指导和精华资源，方便技术人学习成长。|
 |     2   |    django-best-practices  |    https://github.com/lincolnloop/django-best-practices    |       django最佳实践 |
 |    3   |  my-git  |     https://github.com/xirong/my-git   |     git资料和文章一个资源的汇总和合理的安排   |
 |     4   |  react-native-guide  |     https://github.com/reactnativecn/react-native-guide   |     汇集React-Native各类学习资源的react-native学习指南   |
@@ -28,3 +29,9 @@ title:  开源书籍大搜罗
 |     19   |  chinese_docker  |     https://github.com/widuu/chinese_docker   |    Docker 中文指南， 对docker官方文档的翻译    |
 |     21   |  west-chamber-season-3  |    https://github.com/whataday/west-chamber-season-3    |       对gfw的研究， 另外提供翻墙解决方案 |
 |     22  |  kafka-storm-starter  |    https://github.com/miguno/kafka-storm-starter    |     整合kafka和storm的指南书   |
+|      23  | react-demos  |  https://github.com/hackstoic/react-demos| react.js的demo代码 |
+|      24  | You-Dont-Know-JS   |  https://github.com/getify/You-Dont-Know-JS | js系列书籍， 包括了6本书，深入js原理|
+|      25  | security-guide-for-developers  |  https://github.com/FallibleInc/security-guide-for-developers | 实用性开发人员安全须知|
+|      26  | blockchain_guide  |  https://github.com/yeasy/blockchain_guide | 区块链技术指南|
+|      27   | kali-linux-cookbook-zh| https://github.com/wizardforcel/kali-linux-cookbook-zh|【译】Kali Linux 秘籍  |
+| 28  | leaning-etcd3 | https://github.com/skyao/leaning-etcd3 |这份学习笔记, 记录etcd3的学习过程和日常使用.  |
