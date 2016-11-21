@@ -35,3 +35,4 @@ title:  开源书籍大搜罗
 |      26  | blockchain_guide  |  https://github.com/yeasy/blockchain_guide | 区块链技术指南|
 |      27   | kali-linux-cookbook-zh| https://github.com/wizardforcel/kali-linux-cookbook-zh|【译】Kali Linux 秘籍  |
 | 28  | leaning-etcd3 | https://github.com/skyao/leaning-etcd3 |这份学习笔记, 记录etcd3的学习过程和日常使用.  |
+| 29  | docker-resources | https://github.com/hangyan/docker-resources |docker资源汇总，收集了docker相关的博文， 网站， 书籍， 项目等  |
